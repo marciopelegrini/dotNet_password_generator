@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcio/Downloads/generateur_mot_de_passe6/generateur_mot_de_passe/generateur_mot_de_passe.csproj",
+      "projectUniqueName": "/Users/marcio/Projects_Net/generateur_mot_de_passe/dotNet_password_generator/generateur_mot_de_passe/generateur_mot_de_passe.csproj",
       "projectName": "generateur_mot_de_passe",
-      "projectPath": "/Users/marcio/Downloads/generateur_mot_de_passe6/generateur_mot_de_passe/generateur_mot_de_passe.csproj",
+      "projectPath": "/Users/marcio/Projects_Net/generateur_mot_de_passe/dotNet_password_generator/generateur_mot_de_passe/generateur_mot_de_passe.csproj",
       "packagesPath": "/Users/marcio/.nuget/packages/",
-      "outputPath": "/Users/marcio/Downloads/generateur_mot_de_passe6/generateur_mot_de_passe/obj/",
+      "outputPath": "/Users/marcio/Projects_Net/generateur_mot_de_passe/dotNet_password_generator/generateur_mot_de_passe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marcio/.config/NuGet/NuGet.Config"

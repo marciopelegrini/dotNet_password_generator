@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4986848C-78FB-4A15-ACB4-C8890DDEF9FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="generateur_mot_de_passe/Program.cs">
+    <Files>
+      <File FileName="generateur_mot_de_passe/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="generateur_mot_de_passe" expanded="True">
+            <Node name="generateur_mot_de_passe" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.generateur__mot__de__passe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
